@@ -13,7 +13,7 @@ const AppLayout: React.FC = () => {
   return (
     <div className="min-h-screen bg-white">
       <ComingSoonBanner />
-      <div className="pt-16">
+      <div className="pt-32 sm:pt-36">
         <Header />
         <main>
           <HeroSection />
