@@ -9,7 +9,7 @@ export default function ComingSoonBanner() {
           <span className="font-bold text-lg">🚀 COMING SOON</span>
         </div>
         <div className="hidden md:block h-4 w-px bg-white/30"></div>
-        <span className="text-sm md:text-base font-medium">
+        <span className="hidden sm:block text-sm md:text-base font-medium">
           Revolutionary AI Wellness Platform • Launching Q2 2024
         </span>
         <div className="hidden md:block h-4 w-px bg-white/30"></div>
